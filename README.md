@@ -8,6 +8,9 @@
   <img src="https://img.shields.io/github/stars/radar-lab/Lidar_Camera_Automatic_Calibration?style=social" alt="GitHub Repo stars"/>
   <img src="https://img.shields.io/github/forks/radar-lab/Lidar_Camera_Automatic_Calibration?style=social" alt="GitHub forks"/>
   <img src="https://img.shields.io/github/last-commit/radar-lab/Lidar_Camera_Automatic_Calibration" alt="GitHub last commit"/>
+  <a href="https://ieeexplore.ieee.org/document/11314647">
+    <img src="https://img.shields.io/badge/IEEE-Published-blue.svg" alt="IEEE"/>
+  </a>
   <a href="http://arxiv.org/abs/2502.17648">
     <img src="https://img.shields.io/badge/arXiv-2502.17648-b31b1b.svg" alt="arXiv"/>
   </a>
